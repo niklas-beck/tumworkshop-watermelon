@@ -135,7 +135,7 @@ Additionally, select the *Network interfaces* and *Public IP addresses* checkbox
 
 Press **Delete** at the bottom.
 
-![Azure VM Delete](doc/Azure_VM_Delete.png)
+![Azure VM Delete](doc/Azure_VM_delete.png)
 
 ## Conclusion
 
