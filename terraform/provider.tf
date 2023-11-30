@@ -10,7 +10,7 @@ terraform {
     resource_group_name  = "TUM-Workshop"
     storage_account_name = "tfstoragetumworkshop"
     container_name       = "tum-workshop-session1"
-    key                  = "repo-0.tfstate"
+    key                  = "repo-watermelon.tfstate"
     use_oidc             = true
   }
 
